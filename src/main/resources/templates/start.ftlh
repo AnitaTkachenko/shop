@@ -11,6 +11,5 @@
 <body>
 <@base.layout>
 </@base.layout>
-cdcd
 </body>
 </html>
